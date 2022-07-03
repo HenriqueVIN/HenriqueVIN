@@ -1,7 +1,7 @@
 ## Sobre mim
 
 - 👋 Oi, Meu nome é ''@HenriqueVIN''
-- Meu email de contato é [email](hviniciuscastilho123@gmail.com)
+- Meu email de contato é 'hviniciuscastilho123@gmail.com'
 - 👀 Eu estou interessado em aprender novas linguagens ...
 - 🌱 Eu atualmente estou aprendendo HTML e CSS e estou interessado em aprender JavaScript ...
 
