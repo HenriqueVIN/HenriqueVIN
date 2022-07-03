@@ -1,6 +1,6 @@
 ## Sobre mim
 
-- 👋 Oi, Meu nome é ''@HenriqueVIN''
+- 👋 Oi, Meu nome é ''Henrique Vinicius'', tenho 15 anos e pretendo trabalhar com programação.
 - Meu email de contato é 'hviniciuscastilho123@gmail.com'
 - 👀 Eu estou interessado em aprender novas linguagens ...
 - 🌱 Eu atualmente estou aprendendo HTML e CSS e estou interessado em aprender JavaScript ...
